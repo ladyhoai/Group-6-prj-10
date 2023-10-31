@@ -156,5 +156,3 @@ xlabel('X-axis');
 ylabel('Y-axis');
 zlabel('Z-axis');
 title('3D Path of Transformed Points with Distance Lines');
-
-legend('Robot Path', 'Catheter Path', 'Distance Lines');
